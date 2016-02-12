@@ -1,0 +1,9 @@
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_1_4–lab\CSharp_Net-module1_1_4–lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+E:\OneDrive\c#\BA\Lab Work 1.1.4\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+D:\Valera\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe.config
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.exe
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\bin\Debug\CSharp_Net-module1_1_4–lab.pdb
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4-lab.csprojResolveAssemblyReference.cache
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4–lab.exe
+E:\OneDrive\c#\BA\Lab Work 1.1.4 Array, Structure, Enum\CSharp_Net-module1_1_4-lab\obj\Debug\CSharp_Net-module1_1_4–lab.pdb
