@@ -129,8 +129,12 @@ namespace CSharp_Net_module1_1_4_lab
             // Note: use loops and if-else statements
 
             int largestHHD = 0;
+            //RV: Its is better to declare to variables with appropriate names instead of array with two elements
+            //RV: It will make code more clear and readable.
             int[] posLargeStorage = new int[2];
 
+            //RV: Since there are more than one computer with the same largest storage with this 
+            //RV: algorythm you will find position of the first one and ignore the others.             
             for (int i = 0; i < departments.Length; i++)
             {
                 for (int j = 0; j < departments[i].Length; j++)
