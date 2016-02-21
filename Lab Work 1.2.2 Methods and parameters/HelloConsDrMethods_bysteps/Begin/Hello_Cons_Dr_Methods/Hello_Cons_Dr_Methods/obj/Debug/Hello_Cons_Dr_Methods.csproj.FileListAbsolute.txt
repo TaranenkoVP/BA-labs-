@@ -29,3 +29,9 @@ D:\Valera\OneDrive\c#\BA\Lab Work 1.2.2\HelloConsDrMethods_bysteps\Begin\Hello_C
 E:\OneDrive\c#\BA\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\bin\Debug\Hello_Cons_Dr_Methods.exe.config
 E:\OneDrive\c#\BA\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\obj\Debug\Hello_Cons_Dr_Methods.exe
 E:\OneDrive\c#\BA\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\obj\Debug\Hello_Cons_Dr_Methods.pdb
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\bin\Debug\Hello_Cons_Dr_Methods.exe.config
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\obj\Debug\Hello_Cons_Dr_Methods.exe
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\obj\Debug\Hello_Cons_Dr_Methods.pdb
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\bin\Debug\Hello_Cons_Dr_Methods.exe
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\bin\Debug\Hello_Cons_Dr_Methods.pdb
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.2 Methods and parameters\HelloConsDrMethods_bysteps\Begin\Hello_Cons_Dr_Methods\Hello_Cons_Dr_Methods\obj\Debug\Hello_Cons_Dr_Methods.csprojResolveAssemblyReference.cache

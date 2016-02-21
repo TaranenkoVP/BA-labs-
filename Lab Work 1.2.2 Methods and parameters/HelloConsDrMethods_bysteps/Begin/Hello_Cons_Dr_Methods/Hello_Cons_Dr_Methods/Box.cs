@@ -86,7 +86,7 @@ namespace Hello_Cons_Dr_Methods
                 Console.Write(Symb);
             }
 
-            Console.SetCursorPosition(X + Width+1 , Y + Height+1);
+            Console.SetCursorPosition(0 , Y + Height+1);
             mes = "Square = " + Width * Height;
         }
     }
