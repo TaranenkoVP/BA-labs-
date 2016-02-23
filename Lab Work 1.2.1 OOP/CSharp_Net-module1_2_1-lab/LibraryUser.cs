@@ -97,6 +97,7 @@ namespace CSharp_Net_module1_2_1_lab
 
         public LibraryUser()
         {
+            //RV: No need to initialize them with fake values. They are not useful. Just leave it empty.
             firstName = "defFirstName";
             lastName = "defLastName";
             id = "defID";
@@ -131,7 +132,8 @@ namespace CSharp_Net_module1_2_1_lab
         //AddBook() – add new book to array bookList,
 
         public void AddBook(string name)
-        {
+        {            
+            //RV: You can initialize bookList with empty array in constructor to simplify this condition
             if (bookList == null)
             {
                 if (BookLimit > 0)

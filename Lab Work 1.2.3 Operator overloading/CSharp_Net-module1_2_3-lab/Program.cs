@@ -37,6 +37,8 @@ namespace CSharp_Net_module1_2_3_lab
             Console.WriteLine("money1 * int: {1} * {2} =  {3} {0}", money1.CurrencyType, money1.Amount, i, (money1 * i).Amount);
 
             // compare 2 objects of Money
+            //RV: It is very confusing when == and (< or >) can be true at the same time. 
+            //RV: The implementation of these operator has to be consistent. Objects cannot be equal and at the same time greiter than. 
             if (money1 == money2)
             {
                 if (money1 > money2)
