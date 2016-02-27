@@ -5,3 +5,6 @@ E:\OneDrive\c#\BA\Lab Work 1.2.3\CSharp_Net-module1_2_3-lab\bin\Debug\CSharp_Net
 E:\OneDrive\c#\BA\Lab Work 1.2.3\CSharp_Net-module1_2_3-lab\obj\Debug\CSharp_Net-module1_2_3-lab.csprojResolveAssemblyReference.cache
 E:\OneDrive\c#\BA\Lab Work 1.2.3\CSharp_Net-module1_2_3-lab\obj\Debug\CSharp_Net-module1_2_3–lab.exe
 E:\OneDrive\c#\BA\Lab Work 1.2.3\CSharp_Net-module1_2_3-lab\obj\Debug\CSharp_Net-module1_2_3–lab.pdb
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.3 Operator overloading\CSharp_Net-module1_2_3-lab\bin\Debug\CSharp_Net-module1_2_3–lab.exe.config
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.3 Operator overloading\CSharp_Net-module1_2_3-lab\obj\Debug\CSharp_Net-module1_2_3–lab.exe
+E:\OneDrive\c#\BA\repository\Lab Work 1.2.3 Operator overloading\CSharp_Net-module1_2_3-lab\obj\Debug\CSharp_Net-module1_2_3–lab.pdb
