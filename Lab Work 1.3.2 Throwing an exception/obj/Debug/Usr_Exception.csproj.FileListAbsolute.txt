@@ -1,0 +1,16 @@
+D:\Projects\Hello_Exception_stud\bin\Debug\CustomException.exe
+D:\Projects\Hello_Exception_stud\bin\Debug\CustomException.pdb
+D:\Projects\Hello_Exception_stud\obj\Debug\CustomException.exe
+D:\Projects\Hello_Exception_stud\obj\Debug\CustomException.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Exception_stud\obj\Debug\CustomException.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Exception_stud\obj\Debug\CustomException.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Exception_stud\bin\Debug\CustomException.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Exception_stud\bin\Debug\CustomException.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Exception_stud\obj\Debug\Usr_Exception.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Group_290915\131015\lab_1_3_2\Hello_Exception_stud\obj\Debug\CustomException.exe
+C:\Users\win7\Desktop\Group_290915\131015\lab_1_3_2\Hello_Exception_stud\obj\Debug\CustomException.pdb
+C:\Users\win7\Desktop\Group_290915\131015\lab_1_3_2\Hello_Exception_stud\bin\Debug\CustomException.exe
+C:\Users\win7\Desktop\Group_290915\131015\lab_1_3_2\Hello_Exception_stud\bin\Debug\CustomException.pdb
+C:\Users\win7\Desktop\Group_290915\131015\lab_1_3_2\Hello_Exception_stud\obj\Debug\Usr_Exception.csprojResolveAssemblyReference.cache
+E:\OneDrive\c#\BA\Hello_Exception_stud\obj\Debug\CustomException.exe
+E:\OneDrive\c#\BA\Hello_Exception_stud\obj\Debug\CustomException.pdb
