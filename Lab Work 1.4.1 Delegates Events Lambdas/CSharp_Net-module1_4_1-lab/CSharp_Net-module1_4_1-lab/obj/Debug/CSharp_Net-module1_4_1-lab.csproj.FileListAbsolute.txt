@@ -1,0 +1,12 @@
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\bin\Debug\CSharp_Net-module1_4_1–lab.exe.config
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\bin\Debug\CSharp_Net-module1_4_1–lab.exe
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\bin\Debug\CSharp_Net-module1_4_1–lab.pdb
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\obj\Debug\CSharp_Net-module1_4_1–lab.csprojResolveAssemblyReference.cache
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\obj\Debug\CSharp_Net-module1_4_1–lab.exe
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_4_1–lab\CSharp_Net-module1_4_1–lab\obj\Debug\CSharp_Net-module1_4_1–lab.pdb
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\bin\Debug\CSharp_Net-module1_4_1–lab.exe.config
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\bin\Debug\CSharp_Net-module1_4_1–lab.exe
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\bin\Debug\CSharp_Net-module1_4_1–lab.pdb
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\obj\Debug\CSharp_Net-module1_4_1-lab.csprojResolveAssemblyReference.cache
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\obj\Debug\CSharp_Net-module1_4_1–lab.exe
+E:\OneDrive\c#\BA\Lab Work 1.4.1 Delegates Events Lambdas\CSharp_Net-module1_4_1-lab\CSharp_Net-module1_4_1-lab\obj\Debug\CSharp_Net-module1_4_1–lab.pdb
