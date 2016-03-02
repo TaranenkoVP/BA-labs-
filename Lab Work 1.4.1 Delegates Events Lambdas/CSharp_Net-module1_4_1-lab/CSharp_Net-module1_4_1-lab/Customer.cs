@@ -21,9 +21,9 @@ namespace CSharp_Net_module1_4_1_lab
         // 1 - object type
         // 2 - GoodsInfoEventArgs type
 
-        public void GotNewGoods(object o, GoodsInfoEventArgs g)
+        public void GotNewGoods(object o, GoodsInfoEventArgs e)
         {
-            Console.WriteLine("{0} pain attention,we got new {1}", name, g.GoodsName);
+            Console.WriteLine("{0} pain attention,we got new {1}", name, e.GoodsName);
         }
 
     }
