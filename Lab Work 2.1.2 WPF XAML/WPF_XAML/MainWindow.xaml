@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_XAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Click="ShowDialig"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Height="25"
+                Width="109"
+                Name="Push"
+                FontWeight="Bold">
+            <Button.Content>
+                <WrapPanel Name="wrap">
+                    <TextBlock Foreground="Blue" Text="Multi"/>
+                    <TextBlock Foreground="Red" Text="Color"/>
+                    <TextBlock Text="Button"/>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+
+        <Button Click="Save" Name="BSave" Margin="371,-2,34.4,279.8" Content="Save" />
+        <DataGrid Name="Grid1" Margin="40,60,34.4,48.8" ItemsSource="{Binding}"/>
+    </Grid>
+</Window>
